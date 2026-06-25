@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="13" fill="#0f172a"/>
+
+  <!-- Laptop hinge / base -->
+  <rect x="9" y="47" width="46" height="5" rx="2.5" fill="#334155"/>
+
+  <!-- Laptop screen frame -->
+  <rect x="14" y="34" width="36" height="16" rx="2" fill="#1e293b"/>
+  <!-- Screen glow -->
+  <rect x="16" y="36" width="32" height="12" rx="1" fill="#042f2e"/>
+  <!-- Code on screen -->
+  <text x="32" y="45"
+    font-family="'Courier New', Courier, monospace"
+    font-size="9" font-weight="bold"
+    fill="#34d399" text-anchor="middle">&lt;/&gt;</text>
+
+  <!-- Owl body -->
+  <ellipse cx="32" cy="29" rx="10" ry="11" fill="#78350f"/>
+  <!-- Belly patch -->
+  <ellipse cx="32" cy="31" rx="6" ry="7" fill="#b45309"/>
+
+  <!-- Owl head -->
+  <circle cx="32" cy="18" r="11" fill="#92400e"/>
+
+  <!-- Ear tufts -->
+  <polygon points="23,9 25.5,2 28,9" fill="#78350f"/>
+  <polygon points="36,9 38.5,2 41,9" fill="#78350f"/>
+
+  <!-- Wing left (resting on keyboard) -->
+  <path d="M22,28 C15,31 12,38 12,45 L19,45 C19,39 22,34 25,31 Z" fill="#78350f"/>
+  <!-- Wing right -->
+  <path d="M42,28 C49,31 52,38 52,45 L45,45 C45,39 42,34 39,31 Z" fill="#78350f"/>
+
+  <!-- Eye white circles -->
+  <circle cx="26.5" cy="17" r="5.5" fill="white"/>
+  <circle cx="37.5" cy="17" r="5.5" fill="white"/>
+  <!-- Amber iris -->
+  <circle cx="26.5" cy="17" r="3.8" fill="#fbbf24"/>
+  <circle cx="37.5" cy="17" r="3.8" fill="#fbbf24"/>
+  <!-- Pupils -->
+  <circle cx="26.5" cy="17" r="2.2" fill="#1e1b4b"/>
+  <circle cx="37.5" cy="17" r="2.2" fill="#1e1b4b"/>
+  <!-- Eye glints -->
+  <circle cx="27.5" cy="15.5" r="0.9" fill="white"/>
+  <circle cx="38.5" cy="15.5" r="0.9" fill="white"/>
+
+  <!-- Beak -->
+  <polygon points="32,20 29,25 35,25" fill="#f97316"/>
+
+  <!-- Tiny claws on keyboard -->
+  <line x1="26" y1="42" x2="24" y2="47" stroke="#78350f" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="27" y1="42" x2="26" y2="47" stroke="#78350f" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="28" y1="42" x2="28" y2="47" stroke="#78350f" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="36" y1="42" x2="36" y2="47" stroke="#78350f" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="37" y1="42" x2="38" y2="47" stroke="#78350f" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="38" y1="42" x2="40" y2="47" stroke="#78350f" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
